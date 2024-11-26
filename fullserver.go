@@ -1,4 +1,4 @@
-package fServer
+package fullserver
 
 import (
 	"fullserver/internal/fconfig"
